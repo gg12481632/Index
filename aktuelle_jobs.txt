@@ -1,0 +1,92 @@
+11-25: 11-12-13-14-15-17-19-21-23-25
+       11-13-15-17-19-21-24-28-32-36
+
+nets.eu/3ds
+
+---------------------------
+Dom: En mulighed
+
+Er du en dygtig, passioneret og kreativ backend- eller fullstack-udvikler med appetit på den nyeste teknologi? 
+Så har du nu muligheden for at blive en del af Danmarks førende leverandør af læremidler til uddannelsesområdet.
+
+
+https://www.it-jobbank.dk/jobannonce/458105/erfaren-softwareudvikler-net
+Egmont
+minimum 5 års programmeringserfaring med hovedvægt på udvikling af webapplikationer på Microsoft .NET-platformen.
+100 % styr på C#, .NET frameworket og MS SQL
+erfaring med at arbejde ud fra SCRUM eller andre agile metoder
+interesse og kendskab til Azure platformen
+en relevant IT-faglig uddannelse
+
+Faglig stærk backend-udvikler, der kan indgå i vores .NET-team. Vores løsninger kører i Azure og det faglige fokus vil være på udvikling af API’er, CMS, datalag m.m. 
+Du vil indgå i en afdeling med 50 dygtige kolleger.
+
+Ansøgningsfristen er 26/09/2022
+---------------------------
+
+
+Dom: Måske,Qt3D
+Software De­ve­l­op­ment Engineer
+https://www.it-jobbank.dk/jobannonce/452143/software-development-engineer
+TICRA is a dynamic company with 40 employees located in central Copenhagen, Denmark, and with sales agents around the world.
+For more information about TICRA, please visit www.ticra.com.
+
+Required qualifications:
+You are a citizen of a NATO/EU country
+MSc in Computer Science, Engineering or related technical field or equivalent practical experience
+Good communication skills in spoken and written English
+Excellent C++ programming skills and modern standards (C++-20)
+Excellent with Software Architecture and designing testable and reusable software components
+Ability to work with an existing code base and eager to further improve it
+Desired qualifications:
+Experience with graphical user interface and multi-platform development in Qt
+Experience with developing software for Linux
+Experience with OpenGL and Qt3D
+Experience with threaded and parallel programming
+Experience with code review process
+Experience with scripting environments such as Python
+Experience with automated tests and continuous integration
+
+http://www.opengl-tutorial.org/
+
+
+Dom: måske
+https://www.it-jobbank.dk/jobannonce/456516/net-software-developer
+.iHeadHunt ApS søger for Visma Enterprise A/S
+.NET Software Developer
+
+Vi søger en udvikler, der:
+
+Har B.Sc/M.Sc fra en IT-uddannelse som ingeniør eller tilsvarende uddannelse
+Har flere års erfaring i udvikling
+Er flydende i dansk og engelsk, både mundtligt og skriftligt
+Er ambitiøs og vil være med til at sætte retningen
+Kan udvikle features i .Net efter SOLID principperne
+Har styr på SQL
+Forstår at sætte sig i brugerens situation, når du udvikler
+
+
+
+
+Dom: for få
+https://www.it-jobbank.dk/jobannonce/453600/c-udvikler-med-faglig-stolthed
+Diplomvej 373, Lyngby
+Arcanic A/S søger C# .NET-udvikler
+Arcanic er en 20 mand stor it-virksomhed, der udvikler webløsninger til uddannelsessektoren.
+Vores i alt 20 kolleger holder til i dejlige, nyistandsatte lokaler lige ved det summende liv på Ofelia Plads. Her vil du blive en del af en helt særlig kultur med en stærk social sammenhængskraft.
+ND Data
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.proshop.dk/Switch/Ubiquiti-UniFi-Switch-USW-Flex-Mini/2913520?utm_source
+=pricerunner&utm_medium=cpc&utm_campaign=pricesite
