@@ -1,0 +1,2 @@
+https://app.pluralsight.com/library/courses/continuous-delivery-azure-devops-big-picture/table-of-contents
+azure cli
