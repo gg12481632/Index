@@ -1,0 +1,112 @@
+https://docs.microsoft.com/
+Install Azure CLI
+powershell
+az
+
+------<
+PS C:\Users\Rigspolitiet> az --version
+azure-cli                         2.40.0
+
+core                              2.40.0
+telemetry                          1.0.8
+
+Dependencies:
+msal                            1.18.0b1
+azure-mgmt-resource             21.1.0b1
+
+Python location 'C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\python.exe'
+Extensions directory 'C:\Users\Rigspolitiet\.azure\cliextensions'
+
+Python (Windows) 3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 15:58:59) [MSC v.1929 32 bit (Intel)]
+
+Legal docs and information: aka.ms/AzureCliLegal
+
+
+Your CLI is up-to-date.
+>------------------
+
+submodule/subcommand
+
+
+
+PS C:\Users\Rigspolitiet> az login
+=>
+python.exe : WARNING: A web browser has been opened at https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize. Please 
+continue the login in the web browser. If no web browser is available or if the web browser fails to open, use device code flow with 
+`az login --use-device-code`.
+At C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin\az.ps1:2 char:1
++ & "$PSScriptRoot\..\python.exe" -IBm azure.cli $args
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: A web ...e-device-code`.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "210609a2-0ad1-44b6-b3cb-37c1b30544eb",
+    "id": "a24620e6-3f42-4f4b-9dd7-9f575b3ff8e9",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "Visual Studio Enterprise-abonnement",
+    "state": "Enabled",
+    "tenantId": "210609a2-0ad1-44b6-b3cb-37c1b30544eb",
+    "user": {
+      "name": "tkj013@politi.dk",
+      "type": "user"
+    }
+  }
+]
+
+PS C:\Users\Rigspolitiet> 
+
+PS C:\Users\Rigspolitiet> az account show
+{
+  "environmentName": "AzureCloud",
+  "homeTenantId": "210609a2-0ad1-44b6-b3cb-37c1b30544eb",
+  "id": "a24620e6-3f42-4f4b-9dd7-9f575b3ff8e9",
+  "isDefault": true,
+  "managedByTenants": [],
+  "name": "Visual Studio Enterprise-abonnement",
+  "state": "Enabled",
+  "tenantId": "210609a2-0ad1-44b6-b3cb-37c1b30544eb",
+  "user": {
+    "name": "tkj013@politi.dk",
+    "type": "user"
+  }
+}
+
+
+PS C:\Users\Rigspolitiet> az account list
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "210609a2-0ad1-44b6-b3cb-37c1b30544eb",
+    "id": "a24620e6-3f42-4f4b-9dd7-9f575b3ff8e9",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "Visual Studio Enterprise-abonnement",
+    "state": "Enabled",
+    "tenantId": "210609a2-0ad1-44b6-b3cb-37c1b30544eb",
+    "user": {
+      "name": "tkj013@politi.dk",
+      "type": "user"
+    }
+  }
+]
+
+az -h
+az webapp -h
+azinteractive
+
+
+PS C:\Users\Rigspolitiet> az group list -o table
+Name                            Location     Status
+------------------------------  -----------  ---------
+cloud-shell-storage-westeurope  westeurope   Succeeded
+free-ssl                        westeurope   Succeeded
+rg_webapp01                     westeurope   Succeeded
+idp-group                       northeurope  Succeeded
+NetworkWatcherRG                northeurope  Succeeded
+
+PS C:\Users\Rigspolitiet> 
