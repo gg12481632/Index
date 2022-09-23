@@ -1,0 +1,33 @@
+
+<!DOCTYPE html><html lang="en-GB"><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+        
+        <meta http-equiv="X-XSS-Protection" content="1; mode=block">
+        <meta name="format-detection" content="telephone=no">
+        <title data-bind="text: documentTitle">Webmail</title>
+        <link rel="icon" type="image/png" href="//mail-static.cdn-one.com/v44.0.24/media/one_16x16.20f0cd89.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="//mail-static.cdn-one.com/v44.0.24/media/one_24x24.3291127d.png" sizes="24x24">
+        <link rel="icon" type="image/png" href="//mail-static.cdn-one.com/v44.0.24/media/one_32x32.451bcc7c.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="//mail-static.cdn-one.com/v44.0.24/media/one_48x48.954d2cf1.png" sizes="48x48">
+        <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="//mail-static.cdn-one.com/v44.0.24/media/favicon.20f0cd89.ico">
+        <link rel="apple-touch-icon-precomposed" href="//mail-static.cdn-one.com/v44.0.24/media/webmail--57x57.f22d07b4.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//mail-static.cdn-one.com/v44.0.24/media/webmail--72x72.75fbf740.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//mail-static.cdn-one.com/v44.0.24/media/webmail--114x114.d1979037.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//mail-static.cdn-one.com/v44.0.24/media/webmail--144x144.fc35bf11.png">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <style>
+            .errorMessage {
+                color: #333;
+                font-size: 17px;
+                text-shadow: none;
+            }
+        </style>
+    <link href="//mail-static.cdn-one.com/v44.0.24/webmail.css" rel="stylesheet"></head>
+    <body data-keydomain="---">
+        <div id="loadingScreen"><p class="loadingText">Loading...</p></div>
+        <div class="application layout" data-bind="template: { name: 'application', 'if': isInitialized }"></div>
+    <script type="text/javascript" src="//mail-static.cdn-one.com/v44.0.24/bundle.knockoutPolyfills.js"></script><script type="text/javascript" src="//mail-static.cdn-one.com/v44.0.24/bundle.webmail.js"></script>
+
+</body></html>
